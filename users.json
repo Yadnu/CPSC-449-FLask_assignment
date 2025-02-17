@@ -1,0 +1,9 @@
+{"users": [
+
+{"id": 1, "username": "john_doe", "email": "john@example.com"},
+
+{"id": 2, "username": "Yadneya_Joshi", "email": "yadneya1@csu.fullerton.edu"},
+
+{"id": 3, "username": "alice_jones", "email": "alice@example.com"}
+
+]}
